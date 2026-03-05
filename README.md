@@ -22,42 +22,55 @@ This kit gives you the folder structure, context templates, guardrails, and work
 
 ---
 
+## Prerequisites
+
+- [Claude Desktop app](https://claude.com/download) installed (macOS or Windows)
+- A paid Claude plan (Pro $20/mo works, Max $100/mo or $200/mo recommended for serious use)
+- The app must stay open while Cowork runs tasks
+
+---
+
 ## Quick Start (30 minutes)
 
-### Step 1: Download and set up the workspace
+### Step 1: Download this kit
 
-Copy the `Claude-Workspace/` folder to your home directory:
+Click the green **Code** button at the top of this page → **Download ZIP**. Unzip it anywhere on your computer.
 
-```bash
-cp -R Claude-Workspace/ ~/Claude-Workspace/
-```
+### Step 2: Move the workspace folder
 
-### Step 2: Open Cowork and select your workspace
+Find the `Claude-Workspace` folder inside the unzipped download. Move it to your home folder so the path is:
 
-Open Claude Desktop → click the **Cowork** tab → select `~/Claude-Workspace/` as your working folder.
+- **Mac:** `/Users/yourname/Claude-Workspace/`
+- **Windows:** `C:\Users\yourname\Claude-Workspace\`
 
-### Step 3: Set your global instructions
+You can drag and drop it in Finder or File Explorer — no terminal needed.
+
+### Step 3: Open Cowork and select your workspace
+
+Open the Claude Desktop app → click the **Cowork** tab at the top → select your `Claude-Workspace` folder as the working folder.
+
+### Step 4: Set your global instructions
 
 Copy the contents of `guardrails/global-instructions.md` and paste into:
 
 **Settings → Cowork → Edit Global Instructions**
 
-### Step 4: Run the context interview
+### Step 5: Run the context interview
 
 Paste the prompt from `prompts/context-interview.md` into a new Cowork session. Claude will interview you step by step to build your three context files. No guesswork — it's a guided process.
 
-### Step 5: Validate your setup
+### Step 6: Validate your setup
 
 Paste the prompt from `prompts/validation.md` to confirm Claude has loaded your context correctly.
 
-### Step 6: Connect your tools
+### Step 7: Connect your tools
 
 Go to **Settings → Connectors** and connect your most-used tools. Recommended starting set:
 - Email + Calendar
 - Slack
 - Notion
 
-### Step 7: Launch your first workflow
+### Step 8: Launch your first workflow
 
 Pick one prompt from `prompts/workflows/` and run it. Start where value is obvious and measurable.
 
@@ -120,7 +133,7 @@ claude-cowork-starter/
 
 Built by [Max Kelly](https://www.linkedin.com/in/maxrkelly/) — I build AI systems for businesses and help non-technical founders and teams set up workflows that actually run in production.
 
-If you want help setting this up for your business, reach out on [LinkedIn](https://www.linkedin.com/in/maxrkelly/) or [X](https://x.com/maxrkelly).
+If you want help setting this up for your business, reach out on [LinkedIn](https://www.linkedin.com/in/maxrkelly/) or [X](https://x.com/mxponential).
 
 ---
 

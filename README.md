@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cowork.webp" alt="Claude Cowork" width="800">
+</p>
+
 # Claude Cowork Starter Kit
 
 A ready-to-use workspace setup for Claude Cowork — designed for non-technical founders, operators, and professionals who want to get real value from day one.

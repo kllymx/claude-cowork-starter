@@ -131,9 +131,9 @@ claude-cowork-starter/
 
 ## About
 
-Built by [Max Kelly](https://www.linkedin.com/in/maxrkelly/) — I build AI systems for businesses and help non-technical founders and teams set up workflows that actually run in production.
+Built by [Max Kelly](https://www.linkedin.com/in/maxrkelly/) at [Arcane Automation](https://arcaneautomation.io) — I build AI systems for businesses and help non-technical founders and teams set up workflows that actually run in production.
 
-If you want help setting this up for your business, reach out on [LinkedIn](https://www.linkedin.com/in/maxrkelly/) or [X](https://x.com/mxponential).
+If you want help setting this up for your business, reach out on [LinkedIn](https://www.linkedin.com/in/maxrkelly/), [X](https://x.com/mxponential), or visit [arcaneautomation.io](https://arcaneautomation.io).
 
 ---
 
